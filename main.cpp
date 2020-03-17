@@ -282,7 +282,6 @@ ostream& operator<<(ostream &out, const Multime_dinamic &m)
 	}
 	return out;
 }
-//DE INTREBAT
 //SUPRAINCARCAREA OPERATORULUI >>
 istream& operator>>(istream &in, Multime_dinamic &m)
 {
